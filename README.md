@@ -5,7 +5,8 @@ This project visualizes weather trends in Banyuwangi using historical data from 
 
 ## Dashboard Preview
 
-img/dashboard cuaca.png
+![dashboard cuaca](https://github.com/user-attachments/assets/7144534f-dd0b-4f1f-b9bd-d9008445ffb4)
+
 
 
 ## Objectives
