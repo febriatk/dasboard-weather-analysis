@@ -7,7 +7,7 @@ This project visualizes weather trends in Banyuwangi using historical data from 
 
 ![dashboard cuaca](https://github.com/user-attachments/assets/7144534f-dd0b-4f1f-b9bd-d9008445ffb4)
 
-https://public.tableau.com/views/weatheranalysis_17365724538810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View on Tableau Public](https://public.tableau.com/views/weatheranalysis_17365724538810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Objectives
 - To standardize and process raw weather data with inconsistent time intervals
